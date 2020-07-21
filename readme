@@ -1,6 +1,4 @@
-# validador-cpf-java
-
-Esta trabalho contém:
+Esse trabalho contém:
 
 * validador de cpf em java/(site de teste: https://www.4devs.com.br/gerador_de_cpf) 
 ~> Obs: utilize sem pontos e traços, apenas números.
