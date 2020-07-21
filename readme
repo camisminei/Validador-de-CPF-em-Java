@@ -1,0 +1,17 @@
+# validador-cpf-java
+
+Esta trabalho contém:
+
+* validador de cpf em java/(site de teste: https://www.4devs.com.br/gerador_de_cpf) 
+~> Obs: utilize sem pontos e traços, apenas números.
+
+* Herança e Polimorfismo
+
+* Interfaces
+
+* Classes Abstratas
+
+* Getters e Setters 
+
+* Tratamento de exceções
+
